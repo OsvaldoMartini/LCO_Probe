@@ -1,10 +1,5 @@
 package com.lcoprobe.acbs.utils;
 
-import lombok.AccessLevel;
-import lombok.NoArgsConstructor;
-
-//@SuppressWarnings("java:S1118")
-@NoArgsConstructor(access= AccessLevel.PRIVATE)
 public final class Constants {
 
     // Define constants for the various test and response conditions
