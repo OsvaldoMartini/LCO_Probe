@@ -1,0 +1,9 @@
+module:com.fasterxml.classmate
+com.lcoprobe.acbs
+com.lcoprobe.acbs.controller
+com.lcoprobe.acbs.domain
+com.lcoprobe.acbs.loader
+com.lcoprobe.acbs.repository
+com.lcoprobe.acbs.socket
+com.lcoprobe.acbs.utils
+com.lcoprobe.acbs.wrapper
